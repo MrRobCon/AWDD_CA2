@@ -10,7 +10,6 @@ catch (Exception $ex){
   $request->session()->set("flash_message", $ex->getMessage());
   $request->session()->set("flash_message_class", "alert-warning");
   $products = [];
-
 }
 ?>
 <!doctype html>
