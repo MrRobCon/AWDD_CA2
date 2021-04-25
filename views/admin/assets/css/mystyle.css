@@ -1,0 +1,139 @@
+
+h1,h2,h3,h4,h5,h6,p,a {
+    font-family: 'Roboto', sans-serif;
+    color: #252A31;
+}
+
+nav{
+    background: rgba(255, 255, 255, 0.8);
+}
+
+.carousel-inner img{
+    width: 100%;
+    height: 100%;
+}
+
+.loginRegisterBtn:hover{
+    color: #5E852D;
+}
+
+.vl {
+    border-left: 8px solid #B1F658;
+    height: 30px;
+  }
+
+.welcome hr{
+    border-top: 2px solid rgb(42, 150, 212);
+    width: 70%;
+}
+
+.brandIcon{
+    fill: #00A991;
+}
+
+.login{
+    fill: white;
+}
+
+.info-icon{
+    fill: #252A31;
+}
+
+.myhr{
+    border: 2px solid #00A991;
+}
+
+button{
+    background-color: #00A991;
+}
+
+.btn{
+    background-color: #6BCFA5;
+    color: black;
+    outline: none;
+}
+
+.btn:hover{
+    background-color: #b6f0d8;
+    color: black;
+}
+
+.btn:focus{
+    background-color: #6BCFA5;
+    color: black;
+    outline: none;
+}
+
+body{
+    background-color: #E4F2EC
+}
+
+footer{
+    background-color: #B2DEDB;
+}
+
+.carouselText{
+    background-color: black;
+    color: #eff2f5;
+}
+
+svg{
+    fill: #00A991;
+}
+
+.navbar-brand {
+    transform: translateX(-50%);
+    left: 50%;
+    position: absolute;
+  }
+
+.heart {
+    font-size: 25px;
+      color:red;
+  }
+
+i{
+    position:relative; top: 5px; right: 10px;
+    float: right
+    ;
+}
+
+.card{
+    margin-bottom: 25px;
+    width: 15rem;
+    height: 700px;
+    max-height: 700px;
+
+}
+
+.card-title{
+    padding-top: 20px;
+    color: black;
+}
+
+.card-text{
+    font-style: italic;
+    color: grey;
+}
+
+.sort{
+    margin-right: 10px;
+    background-color: #DAEFBE;
+    color: black;
+    border-color: black;
+}
+
+.sort:hover{
+    margin-right: 10px;
+    background-color: #A3E74E;
+    color: black;
+    border-color: black;
+}
+.all-products{
+    margin-bottom: 10px;
+}
+
+.card-img-top{
+    width: 100%;
+    height: 200px;
+}
